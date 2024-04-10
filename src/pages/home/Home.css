@@ -1,4 +1,5 @@
-.home-counter-wrapper{
+.home-counter-wrapper {
+  margin-top: 1rem;
   display: flex;
   justify-content: space-evenly;
 }
